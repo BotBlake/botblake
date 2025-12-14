@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=botblake&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=botblake&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=botblake&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![](https://raw.githubusercontent.com/botblake/github-stats-transparent/refs/heads/output/generated/overview.svg)
