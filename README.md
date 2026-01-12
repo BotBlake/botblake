@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![](https://nirzak-streak-stats.vercel.app/?user=botblake&theme=github_dark&hide_border=true)<br/>
-
-
 ![](https://raw.githubusercontent.com/botblake/github-stats-transparent/refs/heads/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/botblake/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
